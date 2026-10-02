@@ -10,8 +10,8 @@ A modern, responsive, and performance-focused developer portfolio website built 
 
 ## 🚀 Live Demo
 
-- **Live Site:** `https://<your-github-username>.github.io/personal-portfolio/`
-- **Source Code:** `https://github.com/<your-github-username>/personal-portfolio`
+- **Live Site:** `https://deeppurohit7.github.io/personal-portfolio/`
+- **Source Code:** `https://github.com/deeppurohit07/personal-portfolio`
 
 ---
 
